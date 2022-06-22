@@ -1,5 +1,5 @@
 ## Things to revise
-1. Row Column Zero
+1. Row Column Zero  
     i = 0 to R  
     j = 1 to C  
         if matrix[i][0] == 0   
@@ -18,3 +18,7 @@
     N1 = mid-low+1  
     N2 = high-mid  
     inversionCount += (mid+1-low-i)  
+
+4. Cycle in Directed Graph - BFS
+
+5. Cycle in Undirected Graph - DFS
